@@ -10,7 +10,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Grilli Desktop Demo]([./readme-images/desktop.png "Desktop Demo](https://jijojacob988.github.io/Restaurant-Website/)")
 
 ### Prerequisites
 
@@ -20,24 +20,26 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
+To run  locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/Jijojacob988/Restaurant-Website.git
+
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/Jijojacob988/Restaurant-Website.git
+
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
