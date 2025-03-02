@@ -1,45 +1,41 @@
 <h2 align="center">Eat & Drink - Restaurant Website</h2>
 
-  This is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+This is a fully responsive restaurant website,  
+Responsive for all devices, built using **HTML, CSS, and JavaScript**.
 
-  <a href="https://github.com/Jijojacob988/Restaurant-Website/"><strong>➥ Live Demo</strong></a>
+🔗 **[Live Demo](https://jijojacob988.github.io/Restaurant-Website/)**  
 
-</div>
+---
 
-<br />
+## 📸 Demo Screenshots  
 
-### Demo Screeshots
+![Restaurant Website Demo](./readme-images/desktop.png "Desktop Demo")  
 
-![Grilli Desktop Demo]([./readme-images/desktop.png "Desktop Demo](https://jijojacob988.github.io/Restaurant-Website/)")
+---
 
-### Prerequisites
+## 📌 Prerequisites  
 
-Before you begin, ensure you have met the following requirements:
+Before you begin, ensure you have met the following requirements:  
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.  
 
-### Run Locally
+---
 
-To run  locally, run this command on your git bash:
+## 🚀 Run Locally  
 
-Linux and macOS:
+To run the project locally, use the following command in **Git Bash** or **Terminal**:  
 
-```bash
-sudo git clone https://github.com/Jijojacob988/Restaurant-Website.git
-
-```
-
-Windows:
+### **Linux and macOS**  
 
 ```bash
-sudo git clone https://github.com/Jijojacob988/Restaurant-Website.git
+git clone https://github.com/Jijojacob988/Restaurant-Website.git
 
-```
+### **Windos**
+git clone https://github.com/Jijojacob988/Restaurant-Website.git
 
-### Contact
+📞 Contact
+For any inquiries or suggestions, feel free to reach out:
 
-
-
-### License
-
+GitHub: Jijo Jacob
+Live Site: Restaurant Website
 
